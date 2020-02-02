@@ -1,0 +1,53 @@
+Quartus II Archive log --	C:/Users/furka/Desktop/161044036/hw3.qarlog
+
+Archive:	C:/Users/furka/Desktop/161044036/hw3.qar
+Date:		Fri Dec 13 23:05:46 2019
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/alu_1.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/alu_1_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/alu_32.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/alu_32_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/assignment_defaults.qdf
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/control_unit.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/control_unit_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/db/project03.db_info
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/incremental_db/compiled_partitions/project03.db_info
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/inst_parser.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/inst_parser_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips32.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips32_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips_instr_mem.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips_instr_mem_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips_memory.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips_memory_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips_registers.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mips_registers_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux32.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux32_4.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux32_4_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux32_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux_2.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux_2_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux_4.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/mux_4_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/project03.qpf
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/project03.qsf
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/sign_extend.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/sign_extend_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/simulation/modelsim/data.txt
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/simulation/modelsim/instruction.mem
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/simulation/modelsim/registers.mem
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/xor_.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/xor_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/zero_extend.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/zero_extend8.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/zero_extend8_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/zero_extend_testbench.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/zero_extendimme.v
+C:/Users/furka/Desktop/furkanhw3/justTemplate_restored/zero_extendimme_testbench.v
+	======= Total: 42 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
