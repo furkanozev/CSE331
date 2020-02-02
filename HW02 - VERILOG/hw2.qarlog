@@ -1,0 +1,28 @@
+Quartus II Archive log --	C:/Users/furka/Desktop/161044036/hw2.qarlog
+
+Archive:	C:/Users/furka/Desktop/161044036/hw2.qar
+Date:		Sat Nov 16 17:36:34 2019
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/alu_32.qpf
+C:/altera/13.1/alu_32.qsf
+C:/altera/13.1/db/alu_32.db_info
+C:/altera/13.1/incremental_db/compiled_partitions/alu_32.db_info
+C:/altera/13.1/workspace/alu_32/alu_1.v
+C:/altera/13.1/workspace/alu_32/alu_1_testbench.v
+C:/altera/13.1/workspace/alu_32/alu_32.v
+C:/altera/13.1/workspace/alu_32/alu_32_testbench.v
+C:/altera/13.1/workspace/alu_32/mux_2.v
+C:/altera/13.1/workspace/alu_32/mux_2_testbench.v
+C:/altera/13.1/workspace/alu_32/mux_4.v
+C:/altera/13.1/workspace/alu_32/mux_4_testbench.v
+C:/altera/13.1/workspace/alu_32/set_alu_1.v
+C:/altera/13.1/workspace/alu_32/set_alu_1_testbench.v
+C:/altera/13.1/workspace/alu_32/xor_.v
+C:/altera/13.1/workspace/alu_32/xor_testbench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 17 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
